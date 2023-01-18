@@ -18,7 +18,7 @@ Step-2: Pre-Requisites:
 
 Step-3: Process Map:
 
-![DevOps_Project_05_ProcessMap](https://user-images.githubusercontent.com/121715127/213105047-5e50dd11-a48f-427d-be44-520988da9236.png)
+![DevOps_Project_04_ProMap](https://user-images.githubusercontent.com/121715127/213105396-1be30827-b83a-445d-ba7a-7d3499e3ad6f.png)
 
 Step-4: Implementation
 1. Created remote repository for source code management using version control tool GitHub.
